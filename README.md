@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on LETMEIN entreprise, Thai Delices restaurant, Romain Hanry bio 
+- 🌱 I’m currently learning ReactJs
+
 <!--
 **SMONTONG/SMONTONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
